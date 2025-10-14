@@ -25,11 +25,10 @@
     <td>系統</td><td>macOS Tahoe 26.0.1 + OpenCore 1.0.6</td>
   </tr>  
 </table>
-<img width="450" src="https://user-images.githubusercontent.com/79300809/202950638-e8667af1-003b-48ff-9f86-743adab4b9bf.png"><br>
-
+<img width="450" src="https://user-images.githubusercontent.com/79300809/202950638-e8667af1-003b-48ff-9f86-743adab4b9bf.png">
+<br>
 
 <img width="450" src="https://github.com/user-attachments/assets/693be74c-13b9-4b30-9f47-90c150cf79cf" />
-<img width="450" src="https://github.com/user-attachments/assets/e1a7df7d-fb12-4408-9aa8-dd6b7b8f43ed" />
 <img width="450" src="https://github.com/user-attachments/assets/36c79588-dccd-4991-a233-fd58723dad55" />
 
 <br>
